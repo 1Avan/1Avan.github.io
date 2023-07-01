@@ -135,19 +135,19 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/java/index.html",
-    "revision": "7cb7edc9ebd336da5227a68889ddf722"
+    "revision": "69518b295c44de127d93f6d36a14872f"
   },
   {
     "url": "categories/Java基础/index.html",
-    "revision": "5086bd4579235bdde3ddd931ed6b499a"
+    "revision": "2db3efa288410b1c7b5a2f22047aaf4e"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "481d66f2eccdd5614ee6f414739558d5"
+    "revision": "3e4d7f21487c1cf4dd651ebd338127c2"
   },
   {
     "url": "categories/生活/index.html",
-    "revision": "244ad3fb4830c759b87fa680df1b24c7"
+    "revision": "47178615d090503f56885b6d6f42bb61"
   },
   {
     "url": "css/style.css",
@@ -187,7 +187,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "3fef30ab8b5ed9fad2b93c23019e5854"
+    "revision": "d5a43a47e31dc9442c63336ebb718e34"
   },
   {
     "url": "js/custom.js",
@@ -195,47 +195,47 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "d35834bddfe8f684b3df7a67d6a2bbe6"
+    "revision": "93287ed5b8224de6147646fe31362926"
   },
   {
     "url": "tags/JavaSE/index.html",
-    "revision": "d3da1bc918d280aa1240d499cd33e589"
+    "revision": "c984b5cc541c30d7ae6c14bf07952d84"
   },
   {
     "url": "tags/Java基础/index.html",
-    "revision": "1f68f0ba7e1926aa84986a0efccde440"
+    "revision": "a138c33f3327103501c6aad9637ab230"
   },
   {
     "url": "tags/js/index.html",
-    "revision": "f13555893febc99249fa7d6a3d8b8891"
+    "revision": "4baeb010c2d53a4f97e468d07c946924"
   },
   {
     "url": "tags/Spring/index.html",
-    "revision": "2c49b6d04c3f8fac70a62e639a0b36d9"
+    "revision": "ce67d367b12f2aefb9060ccf153b23c5"
   },
   {
     "url": "tags/SpringBoot/index.html",
-    "revision": "2e245f0dee69b9b7730875673292125a"
+    "revision": "a26fb809ab17a10a40beec654ffe2e76"
   },
   {
     "url": "tags/vue/index.html",
-    "revision": "8ddb70b1ea3803880ec519b7709e7a22"
+    "revision": "c522b8aeb8fb32b1ac4d5acfab818082"
   },
   {
     "url": "tags/分享生活/index.html",
-    "revision": "f461289a6939afaa1017d34e233daa30"
+    "revision": "8bf3fb55a2d153bc7dabb0db231b3d1c"
   },
   {
     "url": "tags/生活/index.html",
-    "revision": "bdff3786b89a6b37a6804af65f302a32"
+    "revision": "692f4686c529b89558e6490e2025c2d3"
   },
   {
     "url": "tags/零基础/index.html",
-    "revision": "389a5712ed50e1d80aad6d6ae2a54364"
+    "revision": "93ec54b469d9e3a767aa93f4aa9b9711"
   },
   {
     "url": "tags/面向对象/index.html",
-    "revision": "74674eef005adcaa1e5b225322e4bd98"
+    "revision": "de89c17e5b504e6c2c9674368390afd8"
   },
   {
     "url": "timeline/index.html",
