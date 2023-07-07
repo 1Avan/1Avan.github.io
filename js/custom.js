@@ -36,7 +36,7 @@ Element.prototype.appendChild = function() {
 };
 
 
-/*
+
 放置广告链接
 var _hrefs = "https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=11811&userCode=goqhbyn3";
 function vueSidebarShow() {
@@ -46,14 +46,18 @@ function vueSidebarShow() {
 		loadSidebar(_hrefs);
 	}
 
-}*/
+}
 
 // 广告
 function loadSidebar(hrefTxt) {	
-	var sidebars = document.getElementsByClassName("sidebar");	var divNode = document.createElement("div");divNode.setAttribute("style" , "text-align: center; padding: 10px;");divNode.innerHTML = '<img src="/img/img1.png" style=" width:280px;height:140px">';
+	var sidebars = document.getElementsByClassName("sidebar");	
+  var divNode = document.createElement("div");divNode.setAttribute("style" , "text-align: center; padding: 10px;");
+  divNode.innerHTML = '<img src="/img/img1.png" style=" width:280px;height:140px">';
 	console.log(sidebars)
+  console.log(hrefTxt);
 	sidebars[0].insertBefore(divNode , sidebars[0].childNodes[0]);
-	var e = document.getElementsByClassName("hide");if(e[1])e[1].remove();
+	var e = document.getElementsByClassName("hide");
+  if(e[1])e[1].remove();
 }
 
 
